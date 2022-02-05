@@ -1,0 +1,10 @@
+.container{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.left{
+    text-align: left;
+    justify-content: left;
+}
